@@ -20,3 +20,18 @@ WHEN I open API GET routes in Insomnia for categories, products, or tags
 THEN the data for each of these routes is displayed in a formatted JSON
 WHEN I test API POST, PUT, and DELETE routes in Insomnia
 THEN I am able to successfully create, update, and delete data in my database
+
+## Install 
+     "dotenv": "^8.2.0",
+    "express": "^4.18.2",
+    "mysql2": "^2.1.0",
+    "sequelize": "^5.21.7"
+
+## Usage
+Download the code from my github repo: https://github.com/akcodes29/E-commerce-Back-End . 
+## Credits
+I recieved the intial starter code from the UCF bootcamp.
+
+## Screenshot
+
+## Video Link
